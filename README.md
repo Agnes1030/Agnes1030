@@ -1,4 +1,4 @@
-### Hi there,i'm Agnes Ma,thanks for view my page 🤏🏾🤩👩🏼‍💻
+### Hi there,i'm Agnes Ma~ 🤏🏾🤩👩🏼‍💻
 
 
 - 🌱 I’m currently learning Vue.js && ECMAScript && Springboot
@@ -8,5 +8,8 @@
 - 😄 Pronouns: \...\-\.-\-.--\.-.\..\-.-.\....\...\-\.-\-.--\.\.-\...\-.--\...\-\.-\-.--\-.--\---\..-\-.\--.
 - ⚡ Fun fact: eating🥑 && gym🛹 && coding💻 && fashion👒
 
-[![Agnes1030's github stats](https://github-readme-stats.vercel.app/api?username=Agnes1030)](https://github.com/anuraghazra/github-readme-stats)
+![Agnes1030's github stats](https://github-readme-stats.vercel.app/api?username=Agnes1030)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Agnes1030)
+
+#### Thank you for the visit.
+![](http://profile-counter.glitch.me/evilbutcher/count.svg)
