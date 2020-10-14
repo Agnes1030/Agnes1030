@@ -13,7 +13,7 @@
 [![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Agnes1030&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 🧘🏼‍♀️Weekly Development Breakdown
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 
 ![](http://profile-counter.glitch.me/Agnes1030/count.svg)
