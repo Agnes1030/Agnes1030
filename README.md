@@ -1,8 +1,8 @@
-### Hi there,i'm Agnes Ma~ 🤏🏾🤩👩🏼‍💻
+### Hi there,I’m Agnes Ma~ 🤏🏾🤩👩🏼‍💻
 
 
 - 🌱 I’m currently learning Vue.js && ECMAScript && Springboot
-- 👯 I’m looking to collaborate on Alibaba
+- 👯 I’m looking for an internship in Hangzhou
 - 🤔 I’m looking for help with Self-Disciplined Learning
 - 📫 How to reach me: [mywebsite](https://agnesma.top/)、wechatID:matiancai1234567890
 - 😄 Pronouns: \...\-\.-\-.--\.-.\..\-.-.\....\...\-\.-\-.--\.\.-\...\-.--\...\-\.-\-.--\-.--\---\..-\-.\--.
