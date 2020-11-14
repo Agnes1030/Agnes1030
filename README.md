@@ -15,7 +15,7 @@
 🧘🏼‍♀️Weekly Development Breakdown
   <!--START_SECTION:waka-->
 ```text
-Week: 05 November, 2020 - 12 November, 2020
+Week: 06 November, 2020 - 13 November, 2020
 
 JavaScript   4 hrs 22 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.27 % 
 Vue.js       4 hrs 10 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.69 % 
