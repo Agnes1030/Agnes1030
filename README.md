@@ -15,9 +15,7 @@
 🧘🏼‍♀️Weekly Development Breakdown
   <!--START_SECTION:waka-->
 ```text
-Week: 09 January, 2021 - 16 January, 2021
-
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
