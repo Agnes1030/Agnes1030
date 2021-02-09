@@ -15,10 +15,7 @@
 🧘🏼‍♀️Weekly Development Breakdown
   <!--START_SECTION:waka-->
 ```text
-Week: 31 January, 2021 - 07 February, 2021
-
-Vue.js       27 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   57.27 % 
-JavaScript   20 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   42.01 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
