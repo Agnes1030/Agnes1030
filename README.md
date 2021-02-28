@@ -15,7 +15,9 @@
 🧘🏼‍♀️Weekly Development Breakdown
   <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 20 February, 2021 - 27 February, 2021
+
+Markdown   3 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀   92.98 % 
 ```
 <!--END_SECTION:waka-->
 
