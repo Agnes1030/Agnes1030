@@ -15,9 +15,7 @@
 🧘🏼‍♀️Weekly Development Breakdown
   <!--START_SECTION:waka-->
 ```text
-Week: 27 February, 2021 - 06 March, 2021
-
-Java       19 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤   98.18 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
